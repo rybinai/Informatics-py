@@ -31,9 +31,9 @@ python3 2.py file.txt
 
 Пример работы программы:
 
-Введите команду: delrow 2  (удалить 2 строчку)
-Введите команду: save      (сохранить изменение, после этого момента можно смотреть результат в файле)
-Введите команду: exit      (выход из файла)
+Введите команду: delrow 2	(удалить 2 строчку)
+Введите команду: save	(сохранить изменение, после этого момента можно смотреть результат в файле)
+Введите команду: exit	(выход из файла)
 
 ///
 
@@ -70,6 +70,6 @@ The program supports the following commands:
      
 An example of the program's operation:
 
-Enter the command: delrow 2 (delete line 2)
-Enter the command: save (save the change, after this moment you can see the result in the file)
-Enter the command: exit (exit file)
+Enter the command: delrow 2	(delete line 2)
+Enter the command: save	(save the change, after this moment you can see the result in the file)
+Enter the command: exit	(exit file)
